@@ -1,5 +1,4 @@
-#Timed Quiz Game
-## In GoLang
+# Timed Quiz Game ## In GoLang
 
 `go run main.go`
 `./main -csv custom.csv -limit 15`
